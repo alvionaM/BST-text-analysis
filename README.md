@@ -5,9 +5,9 @@
 ## Description📌
 <p align="justify">The main function of the Word Counter is to be able to "load" an English text file and count how many times each word appears. For example, let's look at the following text:</p>
 
-<i>\- Hello, how are you?
-\- Very well, thank you. I am studying for the exams. How about you?
-\- Fine, thank you. How many exams will you have?
+<i>\- Hello, how are you?<br>
+\- Very well, thank you. I am studying for the exams. How about you?<br>
+\- Fine, thank you. How many exams will you have?<br>
 \- Too many…</i>
 
 <p align="justify">The word "you" appears 5 times, the word "how" 3 times, the words "thank", "many", and "exams" appear 2 times each, while the words "hello", "are", "very", "well", "I", "am", "studying", "about", "fine", "will", and "have" appear once each. The Word Counter does not take into account punctuation marks, such as , . ? ; ! - :, as well as parentheses, brackets, symbols of operations, or any other character that is not a letter of the English alphabet. Only a single apostrophe inside a word is allowed, e.g., "don't" will be considered as one word. Additionally, all strings containing numbers are completely ignored, e.g., "17:25" or "1980’s".</p>

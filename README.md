@@ -134,5 +134,5 @@ void printTreeAlphabetically(PrintStream stream)
 ``` java 
 void printTreeByFrequency(PrintStream stream)
 ```
-- <p align="justify">Prints the words and their occurrence counts in ascending order by frequency</p>
+- <p align="justify">Prints the words and their occurrence counts in ascending order by frequency.</p>
 - Time Complexity: $\mathcal{O}(n\log{}n)$

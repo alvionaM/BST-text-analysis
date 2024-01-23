@@ -136,3 +136,8 @@ void printTreeByFrequency(PrintStream stream)
 ```
 - <p align="justify">Prints the words and their occurrence counts in ascending order by frequency.</p>
 - Time Complexity: $\mathcal{O}(n\log{}n)$
+
+## Contributors
+Alviona Mancho [<a href="https://github.com/alvionaM">alvionaM>]
+[<img src="https://github.com/{{ techristosP }}.png" width="60px;"/> <br /><sub><a href="https://github.com/{{ techristosP }}">{{ techristosP }}</a></sub>](https://github.com/{{ techristosP }}/{{ BST-text-analysis }}
+

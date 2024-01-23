@@ -138,6 +138,6 @@ void printTreeByFrequency(PrintStream stream)
 - Time Complexity: $\mathcal{O}(n\log{}n)$
 
 ## Contributors
-Alviona Mancho [<a href="https://github.com/alvionaM">alvionaM>]
-[<img src="https://github.com/{{ techristosP }}.png" width="60px;"/> <br /><sub><a href="https://github.com/{{ techristosP }}">{{ techristosP }}</a></sub>](https://github.com/{{ techristosP }}/{{ BST-text-analysis }}
+Alviona Mancho [<a href="https://github.com/alvionaM">alvionaM</a>]
+Christos Patrinopoulos [<a href="https://github.com/techristosP">techristosP</a>]
 
